@@ -1,0 +1,33 @@
+﻿first commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   README.md
+#
+# Untracked files:
+#	06-20108/
+#	11-10-20107/
+#	11-20103/
+#	2/
+#	6/
+#	859/
+#	do-my-essay/
+#	how-to-write-an-analysis-essay/
+#	images/
+#	index.php
+#	jquery-1.7.2.min.js
+#	papermap1.html
+#	papermap2.html
+#	poverty-essay/
+#	robots.txt
+#	rss.xml
+#	se_detector.js
+#	sitemap.xml
+#	style.min.css
+#
+
